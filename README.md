@@ -8,6 +8,29 @@ The dashboard was developed using **Power BI**, with data sourced from Excel, an
 ---
 
 ---
+## 📌 Project KPI Overview
+
+This dashboard presents key workforce KPIs to analyze employee attrition and retention trends across the organization. It tracks total employees (15K), employees who left (3,571), overall attrition rate (24%), and average employee satisfaction (0.61) to provide a high-level view of workforce health. The analysis further breaks down attrition by department, salary level, working hours, tenure, and promotion status. Insights reveal higher attrition in Sales and Technical departments, among low-salary employees, and for employees working extreme monthly hours. Attrition is also most prominent among employees with 3–5 years of experience and those who did not receive promotions, highlighting the impact of compensation, workload, and career growth on employee retention. Overall, these KPIs support data-driven HR decision-making and effective workforce planning.
+
+## Business Value
+
+These KPIs collectively help HR teams:
+
+Identify high-risk employee segments
+
+Improve retention strategies
+
+Optimize workload and compensation planning
+
+Support data-driven workforce decisions
+
+
+
+![HR Attrition & Workforce Analytics Dashboard](kpi_dashboard.png)
+
+
+
+
 ## 🛠 Tools & Technologies
 - Power BI  
 - Microsoft Excel  
@@ -58,3 +81,4 @@ This project demonstrates how HR analytics combined with interactive dashboards 
 
 ## 👤 Author
 **Jyotirmaya Mishra**
+
