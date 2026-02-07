@@ -5,6 +5,10 @@ This project focuses on analyzing employee attrition using HR data to identify t
 
 The dashboard was developed using **Power BI**, with data sourced from Excel, and presents insights through interactive and easy-to-understand visualizations.
 
+![HR Attrition & Workforce Analytics Dashboard](logo2.png)
+
+
+
 ---
 
 ---
